@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 import re
 import numpy as np
 
-PATH = '/Users/danya/Documents/GitHub/personal github/final-project-danya-ellen-and-xochi/data'
+PATH = '/Users/xzmarquez/Documents/GitHub/Personal/chicago-mayoral-election-2023/final-project/data'
 
 
 ###################### Census Cook County Demographic Data ####################

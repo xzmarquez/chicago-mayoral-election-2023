@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import statsmodels.formula.api as smf # for regression with R syntax
 
-PATH = '/Users/danya/Documents/GitHub/personal github/final-project-danya-ellen-and-xochi/data'
+PATH = '/Users/xzmarquez/Documents/GitHub/Personal/chicago-mayoral-election-2023/final-project/data'
 
 ############################## PREP ANALYSIS DATA #############################
 

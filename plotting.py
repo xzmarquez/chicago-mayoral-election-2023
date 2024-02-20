@@ -9,7 +9,7 @@ import pandas as pd
 import geopandas
 import matplotlib.pyplot as plt
 
-PATH = '/Users/danya/Documents/GitHub/personal github/final-project-danya-ellen-and-xochi/data'
+PATH = '/Users/xzmarquez/Documents/GitHub/Personal/chicago-mayoral-election-2023/final-project/data'
 
 ############################ PREPARE THE DF TO MAP ###########################
 def ward_geography():
