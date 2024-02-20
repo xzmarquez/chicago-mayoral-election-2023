@@ -1,6 +1,4 @@
-### Group Members: 
-Danya Sherbini (@dsherbini), Xochi Marquez (@xzmarquez), Ellen Vari (@eivari)
-
+2023 Chicago Mayoral Election 
 ### Research Questions:
 In this project, we analyze the results of the April 2023 Chicago Mayoral Run-Off election between Brandon Johnson and Paul Vallas. Our primary research questions include: 
 * What was the distribution of voting results across Chicago wards?
